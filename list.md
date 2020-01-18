@@ -18,7 +18,6 @@ This repo is a collection of Colorado conferences that I know about with some in
 |DinosaurJS*|||
 |Develop Denver*|||
 |PyColorado*|||
-|ladyCoders Conference|||
 |Microsoft DTC Denver Dev Day|||
 |Colorado Gold Rust|||
 |Longmont Startup Week|||
