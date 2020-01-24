@@ -32,4 +32,4 @@ This repo is a collection of Colorado conferences that I know about with some in
 
 ---
 
-Last Updated: 2020-24-01T09:59:00-0700
+Last Updated: 2020-24-01T10:59:00-0700
